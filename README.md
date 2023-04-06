@@ -1,2 +1,2 @@
-# Real-time Voice Command Using MFCC and Several Neural Networkds Model for Wheelchair Movent Control
+#### Real-time Voice Command Using MFCC and Several Neural Networkds Model for Wheelchair Movent Control
 My project focuses on creating a voice-controlled wheelchair using speech recognition technology. To recognize the spoken commands, I utilize MFCC to extract 13 coefficients as features. The system is designed to be deployed on Jetson TX2 NX, and the deployment program communicates with an Arduino Uno through Serial to send PWM values to control the movement of the wheelchair's wheels.
